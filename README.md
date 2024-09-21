@@ -1,4 +1,5 @@
-Restaurant Chatbot README
+# Restaurant Chatbot README
+
 Welcome to the Restaurant Chatbot project! This chatbot enhances your dining experience by providing quick and informative responses to your questions about the restaurant’s menu, reservations, and recommendations. Below, you’ll find detailed instructions on setting up, using, and understanding the chatbot's features.
 
 Table of Contents
