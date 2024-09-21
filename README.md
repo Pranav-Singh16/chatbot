@@ -39,7 +39,7 @@ You can run the chatbot in Google Colab or any local Python environment that sup
 - User-Friendly Interface: Built with Gradio, providing an intuitive interface for user interactions.
 
 # Usage
-## User Queries
+### User Queries
 1. *Start the chatbot* in your Python environment.
 
 2. *Type your question* in the text box provided, such as:
