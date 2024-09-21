@@ -3,7 +3,7 @@
 Welcome to the Restaurant Chatbot project! This chatbot enhances your dining experience by providing quick and informative responses to your questions about the restaurant’s menu, reservations, and recommendations. Below, you’ll find detailed instructions on setting up, using, and understanding the chatbot's features.
 
 <div align="center">
-  <img src="https://github.com/Pranav-Singh16/chatbot/blob/main/file.JPG" alt="Interacting with chatbot" width="700" height="400">
+  <img src="https://github.com/Pranav-Singh16/chatbot/blob/main/file.JPG" alt="Interacting with Chatbot" width="700" height="400">
 </div>
 
 ## Table of Contents
@@ -88,5 +88,10 @@ You can run the chatbot in Google Colab or any local Python environment that sup
 
 #Images
 ### Chatbot Interface
-
+<div align="center">
+  <img src="https://github.com/Pranav-Singh16/chatbot/blob/main/interface.JPG" alt="Chatbot Interface" width="700" height="400">
+</div>
 ### User Interaction
+<div align="center">
+  <img src="https://github.com/Pranav-Singh16/chatbot/blob/main/file.JPG" alt="Interacting with Chatbot" width="700" height="400">
+</div>
