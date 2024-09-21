@@ -8,7 +8,7 @@ Welcome to the Restaurant Chatbot project! This chatbot enhances your dining exp
 - **Usage**
   -  **User Queries**
   -  **File Queries**
-- **Example Interaction
+- **Example Interaction**
 - **Images**
 - **License**
 
@@ -16,18 +16,24 @@ Welcome to the Restaurant Chatbot project! This chatbot enhances your dining exp
 To get started with the **Restaurant Chatbot**, follow these steps:
 
 1.**Clone the repository:**
+'''
 git clone https://github.com/your-repo/restaurant-chatbot.git
 cd restaurant-chatbot
-Install required packages:
+'''
 
-2.**Install the necessary Python libraries:**
+2.**Install required packages:**
+'''
+Install the necessary Python libraries:**
 pip install -r requirements.txt
+'''
 
 3. **Set up environment variables:**
+'''
 Create a .env file in the project directory with the following content:
 HUGGINGFACE_API_KEY=your_huggingface_api_key
 PINECONE_API_KEY=your_pinecone_api_key
 PINECONE_ENVIRONMENT=your_pinecone_environment
+'''
 
 4.**Run the chatbot:**
 You can run the chatbot in Google Colab or any local Python environment that supports the necessary libraries.
