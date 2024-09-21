@@ -53,13 +53,25 @@ You can run the chatbot in Google Colab or any local Python environment that sup
 3. **Submit your query** by pressing the "Submit" button or hitting Enter. The chatbot will analyze your question, perform a similarity search against its knowledge base, and return an appropriate response.
 
 # File Queries
-1. **Upload a document** (PDF) using the upload button. The chatbot will read and extract text from the file.
 
-2. The chatbot will process each line of text extracted from the document as a separate query.
+1. **File Upload:**
 
-3. For each extracted query, the chatbot will perform a similarity search to find the most relevant information and generate a response.
+- Users can upload a PDF document using an upload button.
 
-4. The results will be displayed in the chat history, allowing you to view responses to each of your document's queries.
+2. **Text Extraction:**
+
+- The bot reads the document and extracts text, separating lines based on the newline character (\n).
+3. **Query Processing:**
+
+- Each line of text is treated as a separate query.
+- The bot submits each query individually and retrieves relevant information.
+
+4. **Response Generation:**
+
+- For each query, the bot generates a response based on the most relevant information found.
+5. **Display:**
+
+- All responses are displayed in the chat history, allowing users to easily view answers to each question derived from the document.
 
 # Example Interaction
 - **User**: "What are the best dishes?"
