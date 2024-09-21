@@ -1,0 +1,105 @@
+{
+  "restaurant_info": {
+    "hours_weekdays": "11:00 AM - 10:00 PM",
+    "hours_weekends": "10:00 AM - 11:00 PM",
+    "location": "Marine drive, Mumbai",
+    "parking": "Complimentary parking available",
+    "payment_methods": ["UPI", "Credit Cards", "Debit Cards", "Cash"],
+    "gift_cards": "Available for purchase in any denomination",
+    "wifi": "Free Wi-Fi available",
+    "health_safety": "We adhere to local health guidelines, including frequent sanitization and social distancing.",
+    "outdoor_seating": "Available during spring and summer months, weather permitting",
+    "private_events": "Book private events such as family gatherings and corporate meetings. Contact our events team for more details.",
+    "contact": {
+      "phone": "(+91) 854-654-3210",
+      "email": "info@indianrestaurant.com",
+      "website": "http://www.indianrestaurant.com"
+    },
+    "accessibility": "Wheelchair accessible entrance and restrooms",
+    "pet_policy": "Service animals are welcome; pets are not allowed inside the restaurant."
+  },
+  "menu": {
+    "vegetarian_options": true,
+    "vegan_options": true,
+    "gluten_free_options": false,
+    "children_menu": true,
+    "allergy_information": "Please inform your server of any allergies. We strive to accommodate all dietary restrictions.",
+    "signature_dishes": [
+      "Butter Chicken",
+      "Paneer Tikka",
+      "Biryani",
+      "Masala Dosa"
+    ],
+    "regional_specialties": {
+      "North_India": [
+        "Chole Bhature",
+        "Dal Makhani",
+        "Rogan Josh"
+      ],
+      "South_India": [
+        "Sambar",
+        "Idli and Vada",
+        "Hyderabadi Biryani"
+      ],
+      "West_India": [
+        "Goan Fish Curry",
+        "Pav Bhaji",
+        "Dhokla"
+      ],
+      "East_India": [
+        "Macher Jhol",
+        "Kosha Mangsho",
+        "Pitha"
+      ]
+    }
+  },
+  "specials": {
+    "happy_hour": {
+      "weekdays": "3:00 PM - 5:00 PM",
+      "details": "Discounted cocktails and appetizers"
+    },
+    "daily_specials": {
+      "Monday": "Butter Chicken with Garlic Naan",
+      "Tuesday": "Vegetable Biryani with Raita",
+      "Wednesday": "Paneer Tikka with Mint Chutney",
+      "Thursday": "Goan Fish Curry with Steamed Rice",
+      "Friday": "Masala Dosa with Coconut Chutney",
+      "Saturday": "Hyderabadi Biryani with Raita",
+      "Sunday": "Rogan Josh with Naan"
+    },
+    "seasonal_specials": {
+      "Spring": "Asparagus and Pea Korma",
+      "Summer": "Chilled Cucumber Raita",
+      "Fall": "Pumpkin Curry",
+      "Winter": "Mutton Shorba"
+    }
+  },
+  "reservations": {
+    "required": false,
+    "online_booking": "Available via our website",
+    "modifications": "Can be made up to 24 hours in advance"
+  },
+  "events": {
+    "types": ["Family Gatherings", "Corporate Meetings", "Wedding Receptions"],
+    "catering_options": "Full catering services available for private events.",
+    "contact_for_events": {
+      "phone": "(987) 654-3210",
+      "email": "events@indianrestaurant.com"
+    }
+  },
+  "staff": {
+    "management": {
+      "name": "Raj Kumar",
+      "contact": "(987) 654-3211"
+    },
+    "chef": {
+      "name": "Aarti Patel",
+      "specialty": "Traditional Indian Cuisine"
+    }
+  },
+  "sustainability": {
+    "recycling": "We recycle paper, glass, and plastic.",
+    "energy_efficiency": "Energy-efficient appliances and lighting used.",
+    "local_sourcing": "We source ingredients locally whenever possible, with a focus on sustainable practices."
+  }
+}
