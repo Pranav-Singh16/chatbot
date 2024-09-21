@@ -3,7 +3,7 @@
 Welcome to the Restaurant Chatbot project! This chatbot enhances your dining experience by providing quick and informative responses to your questions about the restaurant’s menu, reservations, and recommendations. Below, you’ll find detailed instructions on setting up, using, and understanding the chatbot's features.
 
 <div align="center">
-  <img src="https://github.com/Pranav-Singh16/Image_Manipulation_and_Text_Extraction/assets/145978125/cb634d3e-5dba-48e2-8e3b-a76712602f9c" alt="Interacting with chatbot" width="500" height="275">
+  <img src="https://github.com/Pranav-Singh16/chatbot/blob/main/file.JPG" alt="Interacting with chatbot" width="500" height="275">
 </div>
 
 ## Table of Contents
